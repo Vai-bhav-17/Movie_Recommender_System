@@ -13,3 +13,6 @@
 
 ## Key Technologies: 
 Python, Jupyter Notebook, Machine Learning, Streamlit, Deployment.
+
+![Screenshot 2024-03-04 161501](https://github.com/Vai-bhav-17/Movie_Recommender_System/assets/134094319/fa50d402-4ef0-4ed7-b098-37390195e087)
+
